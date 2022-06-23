@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_margin="6dp"
+    android:elevation="4dp">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_alignParentEnd="false"
+        android:background="@drawable/receiver_bg"
+        tools:ignore="UselessParent">
+
+        <TextView
+            android:id="@+id/txt_receive_message"
+            android:layout_width="187dp"
+            android:layout_height="63dp"
+            android:layout_marginStart="25dp"
+            android:padding="5dp"
+            android:text="@string/recever_message"
+            android:gravity="center"
+            android:textSize="15sp"
+            android:textStyle="normal" />
+
+    </LinearLayout>
+</RelativeLayout>

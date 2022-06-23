@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Satish Kumar/ChatbOx2/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.13" />
+        <entry key="..\:/Users/Satish Kumar/ChatbOx2/app/src/main/res/drawable/b.xml" value="0.13" />
+        <entry key="..\:/Users/Satish Kumar/ChatbOx2/app/src/main/res/drawable/ic_arrow.xml" value="0.13" />
+        <entry key="..\:/Users/Satish Kumar/ChatbOx2/app/src/main/res/drawable/ic_call.xml" value="0.13" />
+        <entry key="..\:/Users/Satish Kumar/ChatbOx2/app/src/main/res/drawable/ic_launcher_background.xml" value="0.13" />
+        <entry key="..\:/Users/Satish Kumar/ChatbOx2/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.13" />
+        <entry key="..\:/Users/Satish Kumar/ChatbOx2/app/src/main/res/drawable/mic_background.xml" value="0.13" />
+        <entry key="..\:/Users/Satish Kumar/ChatbOx2/app/src/main/res/drawable/myshape.xml" value="0.13" />
+        <entry key="..\:/Users/Satish Kumar/ChatbOx2/app/src/main/res/drawable/receiver_bg.xml" value="0.13" />
+        <entry key="..\:/Users/Satish Kumar/ChatbOx2/app/src/main/res/drawable/sender_bg.xml" value="0.13" />
+        <entry key="..\:/Users/Satish Kumar/ChatbOx2/app/src/main/res/layout-night/activity_auth.xml" value="0.1" />
+        <entry key="..\:/Users/Satish Kumar/ChatbOx2/app/src/main/res/layout-night/activity_chat.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Satish Kumar/ChatbOx2/app/src/main/res/layout-night/activity_home.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Satish Kumar/ChatbOx2/app/src/main/res/layout-night/activity_password.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Satish Kumar/ChatbOx2/app/src/main/res/layout-night/activity_signup.xml" value="0.1" />
+        <entry key="..\:/Users/Satish Kumar/ChatbOx2/app/src/main/res/layout-night/activity_updateprofile.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Satish Kumar/ChatbOx2/app/src/main/res/layout-night/profile_activity.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Satish Kumar/ChatbOx2/app/src/main/res/layout-night/receive.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Satish Kumar/ChatbOx2/app/src/main/res/layout-night/sent.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Satish Kumar/ChatbOx2/app/src/main/res/layout-night/user_layout.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Satish Kumar/ChatbOx2/app/src/main/res/layout/activity_auth.xml" value="0.1" />
+        <entry key="..\:/Users/Satish Kumar/ChatbOx2/app/src/main/res/layout/activity_auth_night.xml" value="0.15" />
+        <entry key="..\:/Users/Satish Kumar/ChatbOx2/app/src/main/res/layout/activity_chat.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Satish Kumar/ChatbOx2/app/src/main/res/layout/activity_chat_night.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Satish Kumar/ChatbOx2/app/src/main/res/layout/activity_home.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Satish Kumar/ChatbOx2/app/src/main/res/layout/activity_password.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Satish Kumar/ChatbOx2/app/src/main/res/layout/activity_signup.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Satish Kumar/ChatbOx2/app/src/main/res/layout/activity_splashactiviy.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Satish Kumar/ChatbOx2/app/src/main/res/layout/activity_updateprofile.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Satish Kumar/ChatbOx2/app/src/main/res/layout/profile_activity.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Satish Kumar/ChatbOx2/app/src/main/res/layout/receive.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Satish Kumar/ChatbOx2/app/src/main/res/layout/sent.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Satish Kumar/ChatbOx2/app/src/main/res/layout/user_layout.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Satish Kumar/ChatbOx2/app/src/main/res/menu-night/menu.xml" value="0.2" />
+        <entry key="..\:/Users/Satish Kumar/ChatbOx2/app/src/main/res/menu/menu.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

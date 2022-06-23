@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="140dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:elevation="10dp"
+    android:padding="5dp"
+    app:cardBackgroundColor="@color/teal_200"
+    app:cardElevation="20dp"
+    app:cardCornerRadius="20dp"
+    android:layout_margin="10dp"
+    android:id="@+id/chatContent"
+    >
+
+    <TextView
+        android:id="@+id/txt_Name"
+        android:layout_width="247dp"
+        android:layout_height="56dp"
+        android:layout_gravity="center"
+        android:layout_marginLeft="60dp"
+        android:layout_marginTop="5dp"
+        android:gravity="center"
+        android:fontFamily="cursive"
+        android:paddingLeft="25dp"
+        android:text="@string/ayush"
+        android:textColor="@color/black"
+        android:textSize="30sp"
+        android:textStyle="bold" />
+
+    <View
+        android:layout_below="@+id/txt_Name"
+        android:layout_width="match_parent"
+        android:layout_marginTop="5dp"
+        android:layout_height="1dp"
+        android:background="@color/black"
+        />
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/imgProfile3"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_gravity="center"
+        android:src="@drawable/profile"
+        android:layout_marginRight="100dp"
+        app:civ_border_color="#FF000000"
+        app:civ_border_width="2dp" />
+
+</androidx.cardview.widget.CardView>
+
+
+
+
+
+
